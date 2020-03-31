@@ -1,2 +1,2 @@
-# study-tasks
-My study tasks
+# study-projects
+My study projects
